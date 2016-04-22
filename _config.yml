@@ -1,0 +1,28 @@
+name: Boundaries
+favicon: null
+layout_spectrum: 0.6107327453792095
+typography_spectrum: 0.3944786449428648
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#ADD7F6'
+    - '#87BFFF'
+    - '#3F8EFC'
+    - '#2667FF'
+    - '#3B28CC'
+  brandStrength: 0.4659881724510342
+  lightness: 0.8750376203097403
+  saturation: 0.9284286708571017
+  rhythmicContrast: 0.6717305262573063
+purpose: []
